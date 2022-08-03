@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/station-charge-6a04v.figma-tokens-l6cl06ty",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve KS7rEf7bUCflBs4W8pS3 --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
